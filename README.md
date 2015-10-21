@@ -4,7 +4,7 @@ Simple is a static blog generator with a single static page. You can write you b
 
 ##Demo
 
-[Simple](http://isnowfy.github.io/simple)
+[Simple](http://hanmeng1989.github.io/simple)
 
 [Blog demo](http://isnowfy.github.io/)
 
